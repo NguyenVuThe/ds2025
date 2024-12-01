@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Vu The Khoi Nguyen
 * Student ID: 22BI13344
-* Student Group ID: Not-for-now
+* Student Group ID: 10
